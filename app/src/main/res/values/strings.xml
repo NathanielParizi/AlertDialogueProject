@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertDialogueProject</string>
+    <string name="showalert">showalert</string>
+    <string name="title">HELLO!</string>
+    <string name="message">Are you sure you want to do that?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+</resources>
